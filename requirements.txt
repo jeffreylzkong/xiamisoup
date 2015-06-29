@@ -1,2 +1,2 @@
 BeautifulSoup==3.2.1
-eyeD3==0.7.4
+eyeD3>=0.7.4
